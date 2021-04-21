@@ -31,7 +31,7 @@ function buildResponse(sessionAttributes, speechletResponse) {
 
 
 function listTeamMembers(intent, session, callback) {
-    let response = "The group members for team Cloud Cloud are: Bibhav Bhattari, Kyle Haulenbeek, Kevin Hubbard, and Sean Ramuchak";
+    let response = "The group members for team Cloud Cloud are: Bibhav Bhattarai, Kyle Haulenbeek, Kevin Hubbard, and Sean Ramuchak";
     callback({}, buildSpeechletResponse(intent.name, response, '', false));
 }
 function listClassRankings(intent, session, callback) {
