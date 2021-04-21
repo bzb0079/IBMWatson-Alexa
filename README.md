@@ -1,2 +1,3 @@
 # CloudCloud
-Project files for cloud computing - Group Cloud Cloud
+Project files for cloud computing assignment.
+  -Teach Alexa and IBM Watson new skills.
